@@ -1,0 +1,6 @@
+{
+  "name": "DevPortfolio",
+  "description": "High-performance portfolio application for a freelance full-stack developer featuring interactive work showcases, service breakdown, CV viewer, and contact management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
