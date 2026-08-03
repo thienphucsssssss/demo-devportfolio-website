@@ -74,7 +74,7 @@ export const PROJECTS: Project[] = [
     subtitle: 'TYPESCRIPT / FRAMER MOTION',
     techStack: ['TypeScript', 'React', 'Framer Motion', 'Ethers.js', 'Tailwind CSS'],
     category: 'Mobile / Crypto',
-    image: 'https://images.unsplash.com/photo-1639762681485-074b7f4ec675?q=80&w=2070&auto=format&fit=crop',
+    image: 'https://images.unsplash.com/photo-1605792657660-596af9009e82?q=80&w=2002&auto=format&fit=crop',
     description: 'Zero-knowledge biometric crypt security suite and digital asset management console built with client-side key generation and state transition physics.',
     featured: true,
     year: '2023',
